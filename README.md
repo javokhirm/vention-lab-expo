@@ -98,14 +98,6 @@ Create a simple news application using Expo and React Native that displays a lis
 - Implement a pull-to-refresh feature on the FlatList.
 - Add animations to screen transitions.
 
----
-
-This structured format provides a clear and detailed description of the home task, focusing on the components and their appearance, and guiding students through the creation of a simple news application using Expo and React Native.
-
-Certainly! Here are the instructions for submitting the project to GitHub, which you can append to the existing README.
-
----
-
 ## Submission Instructions
 **Submit Your Repository Link:**
    - Once your project is successfully pushed to GitHub, go to the repository page on GitHub.
